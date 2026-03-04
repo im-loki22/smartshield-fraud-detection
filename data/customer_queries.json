@@ -1,0 +1,20 @@
+[
+  {
+    "query_id": "Q1001",
+    "customer_id": "CUST123",
+    "transaction_id": "TXN999",
+    "issue_type": "Unauthorized Transaction",
+    "message": "I did not make this payment",
+    "status": "OPEN",
+    "timestamp": "2026-02-28T09:20:13.556970"
+  },
+  {
+    "query_id": "Q1001",
+    "customer_id": "CUST123",
+    "transaction_id": "TXN999",
+    "issue_type": "Unauthorized Transaction",
+    "message": "I did not make this payment",
+    "status": "OPEN",
+    "timestamp": "2026-02-28T09:20:15.673617"
+  }
+]

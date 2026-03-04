@@ -1,0 +1,130 @@
+[
+  {
+    "transaction_id": "TXN9001",
+    "customer_id": "CUST100",
+    "amount": 65000,
+    "channel": "UPI",
+    "risk_score": 82.3,
+    "risk_level": "HIGH RISK \u00f0\u0178\u0161\u00a8"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "customer_id": "CUST5001",
+    "amount": 75000.0,
+    "channel": "UPI",
+    "risk_score": 97.5,
+    "risk_level": "HIGH RISK \ud83d\udea8"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "customer_id": "CUST5001",
+    "amount": 75000.0,
+    "channel": "UPI",
+    "risk_score": 97.5,
+    "risk_level": "HIGH RISK \ud83d\udea8"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "customer_id": "CUST5001",
+    "amount": 75000.0,
+    "channel": "UPI",
+    "risk_score": 97.5,
+    "risk_level": "HIGH RISK \ud83d\udea8"
+  },
+  {
+    "transaction_id": "TXN_TEST_1",
+    "customer_id": "CUST_TEST_1",
+    "amount": 1000.0,
+    "channel": "UPI",
+    "risk_score": 4.0,
+    "risk_level": "LOW RISK \u2705"
+  },
+  {
+    "transaction_id": "TXN_TEST_1",
+    "customer_id": "CUST_TEST_1",
+    "amount": 1000.0,
+    "channel": "UPI",
+    "risk_score": 4.0,
+    "risk_level": "LOW RISK \u2705"
+  },
+  {
+    "transaction_id": "TXN_TEST_1",
+    "customer_id": "CUST_TEST_1",
+    "amount": 1000.0,
+    "channel": "UPI",
+    "risk_score": 4.0,
+    "risk_level": "LOW RISK \u2705"
+  },
+  {
+    "transaction_id": "TXN_TEST_1",
+    "customer_id": "CUST_TEST_1",
+    "amount": 1000.0,
+    "channel": "UPI",
+    "risk_score": 4.0,
+    "risk_level": "LOW RISK \u2705"
+  },
+  {
+    "transaction_id": "119243811626",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcbank",
+    "amount": 1000.0,
+    "channel": "UPI",
+    "risk_score": 4.0,
+    "risk_level": "LOW RISK \u2705"
+  },
+  {
+    "transaction_id": "119243811626",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcbank",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "119243811628",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcbank",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "119243811628",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcbank",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "1192438116",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcbank",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "1192438116",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcba",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "1192438116",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcba",
+    "amount": 12500.0,
+    "channel": "UPI",
+    "risk_score": 56.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  },
+  {
+    "transaction_id": "1192438116",
+    "customer_id": "lokesh.sudhakar22-1@okhdfcba",
+    "amount": 1.2222222222222223e+20,
+    "channel": "UPI",
+    "risk_score": 68.5,
+    "risk_level": "MEDIUM RISK \u26a0\ufe0f"
+  }
+]
