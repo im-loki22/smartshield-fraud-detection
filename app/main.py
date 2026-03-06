@@ -265,6 +265,15 @@ def predict_fraud(tx: Transaction):
 
     # 🔹 Risk level + action
     risk_level = get_risk_level(final_score)
+    def get_risk_level(score):
+        if score >= 80:
+            return "CRITICAL 🚨"
+        elif score >= 60:
+            return "HIGH ⚠️"
+        elif score >= 40:
+            return "MEDIUM ⚡"
+        else:
+            return "LOW ✅"
     action = get_action(final_score)
 
 
