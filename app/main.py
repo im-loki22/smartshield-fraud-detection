@@ -98,7 +98,7 @@ app = FastAPI(
 def home():
     return {"message": "SmartShield Fraud API Running 🚀"}
 # Load trained model
-MODEL_PATH = os.path.join(BASE_DIR, "..", "model", "fraud_model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "model", "fraud_model.pkl")
 model = joblib.load(MODEL_PATH)
 # ----------- Request Schema -----------
 
