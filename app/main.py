@@ -84,11 +84,16 @@ def create_case(tx, result):
 
     except Exception as e:
         print("Case creation error:", e)
+from fastapi import FastAPI
+
 app = FastAPI(
     title="SmartShield Fraud Detection API",
-    description="AI-powered real-time fraud prevention for digital payments",
-    version="1.0"
+    description="AI Fraud Detection System",
+    version="1.0",
+    docs_url="/docs",
+    redoc_url="/redoc"
 )
+
 @app.get("/")
 def home():
     return {"message": "SmartShield Fraud API Running 🚀"}
